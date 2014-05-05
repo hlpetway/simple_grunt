@@ -6,4 +6,4 @@ ok 1 Array indexOf() should return -1 when the value is not present
 # fail 0
 
 [32mDone, without errors.[39m
-I am done.
+I am done again.
